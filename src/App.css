@@ -5,7 +5,7 @@
   font-size: 4rem;
   margin-top: 40px;
   text-decoration: underline;
-  color:#1CC5DC;
+  color:#FFB319;
 }
 .underline{
   color:white;
@@ -20,7 +20,14 @@
   color: #212529;
   padding-left: 40px;
 }
-
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  
+}
 @media (max-width: 484px){
 .main-heading{
   font-size: 3rem;
