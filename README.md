@@ -1,1 +1,1 @@
-# Cryptocurrency-PriceTracker
+# Cryptocurrency price tracker
